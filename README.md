@@ -221,3 +221,5 @@ This has a direct implication for any data analytics role. An analyst who can wr
 3. Few-shot prompting to standardize insight communication across teams — ensuring consistent tone and depth in data reports shared with non-technical stakeholders
 4. Cross-tool evaluation framework developed here can be applied when selecting the right LLM for specific organizational tasks — cost vs quality tradeoffs
 5. Role-based prompting can simulate a domain expert (e.g., financial analyst, marketing strategist) to generate industry-specific interpretations of the same dataset without requiring domain expertise
+
+Topics: prompt-engineering, generative-ai, llm, chatgpt, claude, gemini, data-analytics, zomato
